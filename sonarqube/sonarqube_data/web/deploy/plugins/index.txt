@@ -1,0 +1,11 @@
+cssfamily,false,sonar-css-plugin-1.0.2.611.jar|783fba6b08ef3f5e1d1e0713edcc3882
+web,true,sonar-html-plugin-3.0.1.1444.jar|61df7e954b9a30e332c1a44fa563c4e0
+scmgit,false,sonar-scm-git-plugin-1.4.1.1128.jar|41e5fb381075759ee0274f6dcb7abbff
+flex,false,sonar-flex-plugin-2.4.0.1222.jar|09ae824d3796a4a92678af9454dcfbff
+xml,false,sonar-xml-plugin-1.5.1.1452.jar|302e7d3fd41752f4113d4185ce94852a
+php,true,sonar-php-plugin-2.15.0.4060.jar|140762e0fcc8ead05eb5a1b111728a0a
+gitlab,false,sonar-gitlab-plugin-4.0.0.jar|d4ae8dda50056ef00bdb0d34c7093a0e
+typescript,true,sonar-typescript-plugin-1.8.0.3332.jar|90ff20787c75521606a396a928f18e87
+buildbreaker,false,sonar-build-breaker-plugin-2.2.jar|dda66ce21dfa15efdf5df7ba953f950e
+javascript,true,sonar-javascript-plugin-5.0.0.6962.jar|1bee17e3bd3f033c19378cf80e76e18b
+yaml,false,sonar-yaml-plugin-1.1.0.jar|f5f64e61add3d812917a9c76ab54e9bf
